@@ -1,0 +1,60 @@
+1 Stage
+39
+7
+2 Stage
+9
+9
+3 Stage
+38
+8
+4 Stage
+7
+7
+5 Stage
+19
+11
+6 Stage
+37
+19
+7 Stage
+57
+25
+8 Stage
+0
+0
+9 Stage
+0
+0
+10 Stage
+0
+0
+11 Stage
+0
+0
+12 Stage
+0
+0
+13 Stage
+0
+0
+14 Stage
+50
+20
+15 Stage
+58
+44
+16 Stage
+0
+0
+17 Stage
+0
+0
+18 Stage
+0
+0
+19 Stage
+37
+37
+Special Stage
+153
+100
